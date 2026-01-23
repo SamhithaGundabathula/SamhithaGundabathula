@@ -1,5 +1,5 @@
-CS graduate with experience across databases, Python scripting, and containerized data pipelines.
-Actively building real-world projects focused on data reliability and automation.
+Computer Science graduate transitioning into Data Engineering.
+Building real-world data pipelines with Python, SQL, and Docker.
 
 <!---
 SamhithaGundabathula/SamhithaGundabathula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
